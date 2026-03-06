@@ -6,7 +6,7 @@ const projects = [
     title: "Portfolio Website",
     description: "Modern animated portfolio built with React & Tailwind",
     thumbnail: "/thumb5.jpg",
-    github: "https://github.com/SteveJnr05/my-app",
+    github: "https://github.com/SteveJnr05/Portfolio-II",
   },
 ];
 
