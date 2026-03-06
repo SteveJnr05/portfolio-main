@@ -10,7 +10,7 @@ const videos = [
     title: "Anime Edit",
     description: "Mashup clips from multiple animes",
     thumbnail: "/thumb3.jpg",
-    file: "/video1.mp4",
+    file: "https://res.cloudinary.com/div5w2jov/video/upload/v1772766892/My_Video_y07zax.mp4",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const videos = [
     title: "Music Video",
     description: "Creative direction and post-production",
     thumbnail: "/thumb4.jpg",
-    file: "/video2.mp4",
+    file: "https://res.cloudinary.com/div5w2jov/video/upload/v1772767400/Miles_The_Mystical_-_Bad_Butterfly_Official_Music_Video_ihfsas.mp4",
   },
 ];
 
